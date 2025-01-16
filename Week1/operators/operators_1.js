@@ -14,24 +14,24 @@
 
 let a = 6;
 let b = 9;
-// these are the variables
+// these are the variables//
 let sum = a + b;
 
 console.log("Sum of a and b is:", sum);
-//this prints the sum of variables a and b
+//this prints the sum of variables a and b//
 
 let Subtract = a - b;
 console.log("Subtract of a and b is:", Subtract);
-//this prints the subtract of variables a and b
+//this prints the subtract of variables a and b//
 
 let Multiply = a * b;
 console.log("Multiply of a and b is:", Multiply);
-//this prints the multiply of variables a and b
+//this prints the multiply of variables a and b//
 
 let Divide = a / b;
 console.log("Divide of a and b is:", Divide);
-//this prints the divide of variables a and b
+//this prints the divide of variables a and b//
 
 let remainder = a % b;
 console.log("Remainder of a and b is", remainder);
-//this prints the remainder of variables a and b
+//this prints the remainder of variables a and b//
